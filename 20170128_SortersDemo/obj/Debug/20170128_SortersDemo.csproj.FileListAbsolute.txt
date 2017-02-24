@@ -1,0 +1,6 @@
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\bin\Debug\20170128_SortersDemo.exe.config
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\bin\Debug\20170128_SortersDemo.exe
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\bin\Debug\20170128_SortersDemo.pdb
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\obj\Debug\20170128_SortersDemo.csprojResolveAssemblyReference.cache
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\obj\Debug\20170128_SortersDemo.exe
+C:\Users\Gena\Desktop\courses\Классы\Полиморфиз\20170128_SortersDemo\obj\Debug\20170128_SortersDemo.pdb
